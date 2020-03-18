@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
-## Tempalte
+## Template
 
 Template that we are using for this project is "Real Estate 2"
 >**here is the link for download & online preview**  
