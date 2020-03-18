@@ -14,7 +14,7 @@ https://colorlib.com/wp/template/real-estate-2/
 🔘 use the suitable html files in template for the pages that you are creating  
 
 >**images may not show in your pages**  
-images links provided in html files are not matching with the angular relative paths, so care about it  
+images sources provided in html files are not matching with the angular relative paths, so care about it  
 ( see how image links are used in home page and use that way in your html files too )
 
 ## Development server
