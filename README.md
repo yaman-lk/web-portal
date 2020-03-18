@@ -17,9 +17,21 @@ https://colorlib.com/wp/template/real-estate-2/
 images sources provided in html files are not matching with the angular relative paths, so care about it  
 ( see how image links are used in home page and use that way in your html files too )
 
+## Setup instruction
+ 1. First clone the repository using `git clone https://github.com/yaman-lk/web-portal.git`
+ 2. Navigate to cloned repository using `cd web-portal` in command prompt
+ 3. Open the development server using `ng serve`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Dev instructions
+1. Make a `git pull` to get repository updated
+2. Make a git branch using `git checkout -b <branchname>` (ex: `git checkout -b adam-dev`)
+3. Fix the issues
+4. push the code using `git push --set-upstream origin <branch name>`
+
 
 ## Code scaffolding
 
