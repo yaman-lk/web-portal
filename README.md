@@ -9,7 +9,7 @@ Template that we are using for this project is "Real Estate 2"
                    👇
 >https://colorlib.com/wp/template/real-estate-2/
 
-🔘 css and scripts are already added to the angular.json(space, space)
+🔘 css and scripts are already added to the angular.json.(space, space)
 🔘 so you are no need to care about css and scripts(space, space)
 🔘 use the suitable html files in template for the pages that you are creating
 
