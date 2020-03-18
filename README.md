@@ -6,15 +6,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Template that we are using for this project is "Real Estate 2"
 >**here is the link for download & online preview**
-                   👇
->https://colorlib.com/wp/template/real-estate-2/
+                   👇  
+>https://colorlib.com/wp/template/real-estate-2/  
 
 🔘 css and scripts are already added to the angular.json  
-🔘 so you are no need to care about css and scripts(space, space)
-🔘 use the suitable html files in template for the pages that you are creating
+🔘 so you are no need to care about css and scripts(space, space)  
+🔘 use the suitable html files in template for the pages that you are creating  
 
-**images may not show in your pages**
-images links provided in html files are not matching with the angular relative paths, so care about it
+**images may not show in your pages**  
+images links provided in html files are not matching with the angular relative paths, so care about it  
 ( see how image links are used in home page and use that way in your html files too )
 
 ## Development server
